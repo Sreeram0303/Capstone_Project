@@ -1,5 +1,5 @@
 # Capstone_Project
-This system detects cotton leaf diseases using deep learning. Pipeline 1 uses EfficientNetV2, U-Net, and LIME for accurate classification, precise segmentation, and explainability. Pipeline 2 uses YOLOv11 and SAM for real-time detection and segmentation. Both provide disease type and infection severity.
+This system detects cotton leaf diseases using deep learning. Pipeline 1 uses EfficientNetV2, U-Net, and LIME for accurate classification, precise segmentation, and explainability. Pipeline 2 uses YOLOv8 and SAM for real-time detection and segmentation. Both provide disease type and infection severity.
 🌿 Cotton Leaf Disease Detection and Severity Estimation System
 ✅ Project Objective:
 To develop an automated deep learning-based system that can:
