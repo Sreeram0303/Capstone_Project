@@ -37,12 +37,12 @@ Pixel-level segmentation with Dice Score of 0.9834.
 
 Transparent decision-making using LIME.
 
-🔁 Pipeline 2: YOLOv11 + SAM
+🔁 Pipeline 2: YOLOv8 + SAM
 Workflow:
 
 Input Image: Cotton leaf image from a real-world source.
 
-YOLOv11: Detects and classifies diseased leaves with bounding boxes.
+YOLOv8: Detects and classifies diseased leaves with bounding boxes.
 
 SAM (Segment Anything Model): Segments the infected area with zero-shot capability.
 
@@ -52,7 +52,7 @@ Final Output: Disease type + Severity Level (Mild/Moderate/Severe).
 
 Key Strengths:
 
-Real-time processing with YOLOv11.
+Real-time processing with YOLOv8.
 
 High generalization through SAM without retraining.
 
