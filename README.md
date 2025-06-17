@@ -54,6 +54,12 @@ Key Strengths:
 
 Real-time processing with YOLOv8.
 
+
+
+Documents : 
+[https://drive.google.com/file/d/1c_xVBZ8e6Gkpgh_wselZSHJYo1BwMRLv/view?usp=sharing](url)
+[https://drive.google.com/file/d/1UNeZXEIFeMBfcWzwR6l9S_W0_GmzdOPD/view?usp=sharing](url)
+UNET FILE IS LARGE TO UPLOAD
 High generalization through SAM without retraining.
 
 Minimal manual annotation needed.
